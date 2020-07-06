@@ -4,6 +4,10 @@
 
 [![NPM](https://img.shields.io/npm/v/react-dock-modal.svg)](https://www.npmjs.com/package/react-dock-modal) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## Demo
+
+https://crackayus09.github.io/react-dock-modal/
+
 ## Install
 
 ```bash

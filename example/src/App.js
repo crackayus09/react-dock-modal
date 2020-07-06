@@ -1,7 +1,7 @@
 import React from 'react'
 
-import DockModal from 'dockmodal'
-import 'dockmodal/dist/index.css'
+import DockModal from 'react-dock-modal'
+import 'react-dock-modal/dist/index.css'
 
 const App = () => {
   return (

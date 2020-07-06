@@ -1,6 +1,6 @@
 {
   "name": "react-dock-modal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Dockable React Modal Like GMail Compose Window",
   "author": "crackayus09",
   "license": "MIT",
@@ -22,6 +22,9 @@
     "dock modal",
     "floating window"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
