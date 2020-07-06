@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { DockModal } from '.'
 
-describe('ExampleComponent', () => {
+describe('DockModal', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(DockModal).toBeTruthy()
   })
 })
