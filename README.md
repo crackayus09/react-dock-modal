@@ -2,7 +2,7 @@
 
 > A Dockable React Modal Like GMail Compose Window
 
-[![NPM](https://img.shields.io/npm/v/react-dock-modal.svg)](https://www.npmjs.com/package/react-dock-modal) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-dock-modal.svg)](https://www.npmjs.com/package/react-dock-modal) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Known Vulnerabilities](https://snyk.io/test/npm/react-dock-modal/badge.svg)](https://snyk.io/test/npm/react-dock-modal)
 
 ## Demo
 
