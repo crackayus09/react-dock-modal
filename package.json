@@ -64,7 +64,7 @@
   "dependencies": {
     "bootstrap": "^4.5.0",
     "react-device-detect": "^1.13.1",
-    "react-dock": "^0.2.4",
+    "react-dock": "^0.3.0",
     "react-icons": "^3.10.0",
     "reactstrap": "^8.5.1"
   }
