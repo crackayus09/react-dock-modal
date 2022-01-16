@@ -10,8 +10,8 @@
     "eject": "node ../node_modules/react-scripts/bin/react-scripts.js eject"
   },
   "dependencies": {
-    "react": "0.14.9",
-    "react-dom": "0.14.9",
+    "react": "0.14.10",
+    "react-dom": "0.14.10",
     "react-scripts": "link:../node_modules/react-scripts",
     "react-dock-modal": "link:.."
   },
